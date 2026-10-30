@@ -7,7 +7,7 @@ from pydantic import BaseModel, ConfigDict, Field
 
 app = FastAPI(
     title="ConnectTel Churn Prediction API",
-    description="Persevex End-to-End AI Deployment Capstone",
+    description="End-to-End Customer Churn Prediction API with MLOps",
     version="1.0.0",
 )
 
