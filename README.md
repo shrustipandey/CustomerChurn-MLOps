@@ -1,6 +1,6 @@
 # Customer Churn Prediction - End-to-End MLOps Deployment
 
-An end-to-end Machine Learning deployment project developed as part of the **Persevex End-to-End AI Project Deployment Capstone**.
+An end-to-end Machine Learning deployment project developed as part of the ** End-to-End AI Project Deployment Capstone**.
 
 This project demonstrates how an existing trained XGBoost Customer Churn Prediction model can be transformed into a deployable web application using REST API development, Docker containerization, and deployment-oriented engineering practices.
 
@@ -117,7 +117,7 @@ It highlights practical MLOps concepts, including model serving, REST API integr
 
 ---
 
-**Capstone:** Persevex End-to-End AI Project Deployment  
+**Capstone:** End-to-End AI Project Deployment  
 **Project:** Customer Churn Prediction - End-to-End MLOps Deployment  
 **Domain:** Machine Learning and MLOps  
 **Model:** XGBoost Customer Churn Predictor
